@@ -26,3 +26,5 @@ This **Weather App** is a simple web-based application that allows users to chec
 - **Error Handling:** Shows a "not found" message if an invalid location is entered.
 
 This app is built using **HTML, CSS, and JavaScript**, making it lightweight and easy to use in web browsers.
+
+To launch the app, simply install **Live Server** in **VS Code**. Once installed, right-click the **index.html** file and select **"Open with Live Server."** The app will then automatically open in your browser, ready to use.
